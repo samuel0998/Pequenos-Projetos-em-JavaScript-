@@ -1,0 +1,53 @@
+Javascript 19/11
+
+hello World 
+
+Console.log (hello world);
+Escreve uma mensagem no terminal.
+
+Variável 
+Const - Variáveis de valor constante
+Let - Variáveis de valor variável
+
+
+
+ Let Nomedavariavel = conteúdo
+ Cont Nomedavariavel = conteúdo
+
+Operadores
+
++  Adição 
+- subtração
+ Multiplicação 
+ Divisão
+ Exponenciação
+% resto da divisão
+++ Incremento
+-- Decremento
+
+Tipos de dados
+
+String  ' pode ser escrita com aspas normal';
+
+Nuber  12 nao se escreve com aspas ;
+
+StringTemplate escreve com crase e pode colocar variáveis dentro ${aquisuavariavel};
+
+
+Projeto do dia
+
+Orçamento mensal
+
+Com base na planinha de Excel irei montar um orçamento mensal.
+
+Funções 
+
+Transmissão de informação através de variáveis 
+E console.log 
+
+Trablaharei com 
+
+Let 
+Const 
+Log
+String templates
